@@ -1,0 +1,10 @@
+{
+	"name": "surfermag-wallpaper-scrapper",
+	"version": "0.0.1",
+	"author": "Vasily Fomin",
+	"dependencies": {		
+		"request": "latest",
+		"cheerio": "latest",
+		"request-progress": "latest"
+	}
+}
